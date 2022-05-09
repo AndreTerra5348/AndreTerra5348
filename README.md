@@ -1,15 +1,13 @@
 <h1 align="center">Hello~ I'm André Terra</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&color=%2320C20E&&lines=Software+Developer;Game+Developer;Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=30&color=20C20E&lines=Software+Developer)](https://git.io/typing-svg)
 
 ## About Me
 - 🎓 I'm a Computer Science student
 - 🏦 I'm currently working for an automation company as a Junior Developer
 - 🌱 I’m currently learning .Net Microservices and its technologies
 - 🌱 What I intend to learn next
-  - Vue.js
-  - React
-  - Kotlin
+  - Azure Services
 - 🎮 I published some games and demos
 
     <a href="https://andreterra.itch.io/"><img height="25" src="https://img.shields.io/badge/Itch.io-fa5c5c?style=flat&logo=itchdotio&logoColor=white"></a>
