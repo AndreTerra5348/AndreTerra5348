@@ -5,12 +5,8 @@
 ## About Me
 - 🎓 I'm a Computer Science student
 - 🏦 I'm currently working for an automation company as a Junior Developer
-- 🌱 I’m currently learning HTML, SCSS, Typescript, Angular
+- 🌱 I’m currently learning .Net Microservices and its technologies
 - 🌱 What I intend to learn next
-  - + C# Entity Framework
-  - C# ASP.NET
-  - Java Spring Ecosystem
-  - Java Hibernate Framework
   - Vue.js
   - React
   - Kotlin
