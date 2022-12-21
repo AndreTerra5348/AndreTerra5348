@@ -1,13 +1,14 @@
-<h1 align="center">Hello~ I'm André Terra</h1>
+<h1 align="center">Hello~ My name is André Terra</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=30&color=20C20E&lines=Software+Developer)](https://git.io/typing-svg)
 
 ## About Me
 - 🎓 I'm a Computer Science student
 - 🏦 I'm currently working for an automation company as a Junior Developer
-- 🌱 I’m currently learning .Net Microservices and its technologies
+- 🌱 I’m currently learning ~.Net Microservices and its technologies~ TDD with [Flutter](https://flutter.dev/)
 - 🌱 What I intend to learn next
   - Azure Services
+- 📖 I'm currently reading [```Domain-Driven Design: Tackling Complexity in the Heart of Software```](https://g.co/kgs/hmhsRb) By Eric Evans
 - 🎮 I published some games and demos
 
     <a href="https://andreterra.itch.io/"><img height="25" src="https://img.shields.io/badge/Itch.io-fa5c5c?style=flat&logo=itchdotio&logoColor=white"></a>
@@ -21,11 +22,13 @@
 <img height="25" src="https://img.shields.io/badge/JAVA-111111?style=plastic&logo=java&logoColor=007396">
 <img height="25" src="https://img.shields.io/badge/Python-111111?style=plastic&logo=python&logoColor=3776AB">
 <img height="25" src="https://img.shields.io/badge/Typescript-111111?style=plastic&logo=typescript&logoColor=3178C6">
+<img height="25" src="https://img.shields.io/badge/Dart-111111?style=plastic&logo=dart&logoColor=3178C6">
+
 
 
 ### Frameworks and Tools
 
-<img height="25" src="https://img.shields.io/badge/Angular-DD0031?style=plastic&logo=angular&logoColor=white"> <img height="25" src="https://img.shields.io/badge/npm-CB3837?style=plastic&logo=npm&logoColor=white">
+<img height="25" src="https://img.shields.io/badge/Flutter-2C2255?style=plastic&logo=flutter&logoColor=white"> <img height="25" src="https://img.shields.io/badge/Angular-DD0031?style=plastic&logo=angular&logoColor=white"> <img height="25" src="https://img.shields.io/badge/npm-CB3837?style=plastic&logo=npm&logoColor=white">
 <img height="25" src="https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=firebase&logoColor=white">
 <img height="25" src="https://img.shields.io/badge/GIT-F05032?style=plastic&logo=git&logoColor=white">
 <img height="25" src="https://img.shields.io/badge/Github-181717?style=plastic&logo=github&logoColor=white">
