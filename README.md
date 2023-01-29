@@ -17,19 +17,14 @@
 ---
 
 ### Languages
-<img height="25" src="https://img.shields.io/badge/C-111111?style=plastic&logo=c&logoColor=A8B9CC"> <img height="25" src="https://img.shields.io/badge/C++-111111?style=plastic&logo=cplusplus&logoColor=00599C">
-<img height="25" src="https://img.shields.io/badge/C%23-111111?style=plastic&logo=csharp&logoColor=239120">
-<img height="25" src="https://img.shields.io/badge/JAVA-111111?style=plastic&logo=java&logoColor=007396">
-<img height="25" src="https://img.shields.io/badge/Python-111111?style=plastic&logo=python&logoColor=3776AB">
-<img height="25" src="https://img.shields.io/badge/Typescript-111111?style=plastic&logo=typescript&logoColor=3178C6">
+<img height="25" src="https://img.shields.io/badge/C%23-111111?style=plastic&logo=csharp&logoColor=239120"> <img height="25" src="https://img.shields.io/badge/JAVA-111111?style=plastic&logo=java&logoColor=007396">
 <img height="25" src="https://img.shields.io/badge/Dart-111111?style=plastic&logo=dart&logoColor=3178C6">
 
 
 
 ### Frameworks and Tools
 
-<img height="25" src="https://img.shields.io/badge/Flutter-2C2255?style=plastic&logo=flutter&logoColor=white"> <img height="25" src="https://img.shields.io/badge/Angular-DD0031?style=plastic&logo=angular&logoColor=white"> <img height="25" src="https://img.shields.io/badge/npm-CB3837?style=plastic&logo=npm&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=firebase&logoColor=white">
+<img height="25" src="https://img.shields.io/badge/Flutter-2C2255?style=plastic&logo=flutter&logoColor=white"> <img height="25" src="https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=firebase&logoColor=white">
 <img height="25" src="https://img.shields.io/badge/GIT-F05032?style=plastic&logo=git&logoColor=white">
 <img height="25" src="https://img.shields.io/badge/Github-181717?style=plastic&logo=github&logoColor=white">
 <img height="25" src="https://img.shields.io/badge/Trello-0052CC?style=plastic&logo=trello&logoColor=white">
